@@ -1,1 +1,6 @@
-info here!
+List of contributors
+
+---
+
+Sara Jolliff
+
